@@ -1,12 +1,9 @@
 # 59 Years Of Humans In Space
 ###### [Readme Practo.docx](https://github.com/gauraishwarya/Practo/files/11219630/Readme.Practo.docx)
-
-
-
 ## Objective:-
 - ##### The objective of project is to prepare a dashboard to study the data of 59 years of humans in space.
 ## Tech Stack Used:-
-![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Practo.png?raw=true)
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Excel%20icon.png?raw=true)
 ## Steps:-
 ##### 1. Power Query - get the data from the Text/CSV files and Data Cleaning. 
 ##### 2. Power Pivot – model the data and write DAX measures.
