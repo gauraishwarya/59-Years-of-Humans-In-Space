@@ -18,4 +18,4 @@
 ##### 8. TEXT Function – create dynamic labels that update with your reports.
 ##### 9. Custom Number Formatting – to hide the negative values in the People in Space chart.
 ## Dashboard:-
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/Practo%20dashboard%20image.png?raw=true)
+![image](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space.png?raw=true)
