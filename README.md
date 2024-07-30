@@ -4,7 +4,7 @@
 
 
 ## Objective:-
-- ##### To create a Machine Learning Model which will predict the fees of doctors.
+- ##### The objective of project is to prepare a dashboard to study the data of 59 years of humans in space.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Practo.png?raw=true)
 ## Steps:-
