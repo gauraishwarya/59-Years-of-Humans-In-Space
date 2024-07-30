@@ -1,5 +1,5 @@
 # 59 Years Of Humans In Space
-###### [Readme Practo.docx](https://github.com/gauraishwarya/Practo/files/11219630/Readme.Practo.docx)
+![Techstack]([https://github.com/gauraishwarya/Project-Images/blob/main/Excel%20icon.png?raw=true](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space%202.png?raw=true))
 ## Objective:-
 - ##### The objective of project is to prepare a dashboard to study the data of 59 years of humans in space.
 ## Tech Stack Used:-
